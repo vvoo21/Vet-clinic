@@ -62,7 +62,8 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-```git clone https://github.com/vvoo21/Space-Travelers-Hub.git
+```
+git clone https://github.com/vvoo21/Space-Travelers-Hub.git
 cd vet-clinic
 ```
 
@@ -75,13 +76,14 @@ postgres=#
 ```
 
 2. Create the database `vet_clinic`
-```sql
+```
 postgres=# CREATE DATABASE vet_clinic;
 CREATE DATABASE
 ```
 
 3. Connect to your database vet_clinic. Inside your current session do:
-```postgres=# \c vet_clinic
+```
+postgres=# \c vet_clinic
 You are now connected to database "vet_clinic" as user "postgres".
 vet_clinic=#
 ```
