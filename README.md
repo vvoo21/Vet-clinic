@@ -27,7 +27,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Vet Clinic Database <a name="about-project"></a>
+# 📖 Vet Clinic <a name="about-project"></a>
 
 **Vet Clinic** is a project to create the initial data structure for a veterinary clinic using a relational database. It implements PostgreSQL and contains all the data about animals.
 
@@ -44,8 +44,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Create a database to store animals' information**
-- **Insert some data into table, and query it**
+- Create a database to store animals' information
+- Insert some data into table, and query it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,8 +62,9 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/vvoo21/Space-Travelers-Hub.git
-cd vet-clinic`
+```git clone https://github.com/vvoo21/Space-Travelers-Hub.git
+cd vet-clinic
+```
 
 ### Create database
 
@@ -80,11 +81,10 @@ CREATE DATABASE
 ```
 
 3. Connect to your database vet_clinic. Inside your current session do:
+```postgres=# \c vet_clinic
+You are now connected to database "vet_clinic" as user "postgres".
+vet_clinic=#
 ```
-    postgres=# \c vet_clinic
-    You are now connected to database "vet_clinic" as user "postgres".
-    vet_clinic=#
-    ```
 
 That's it! Congratulations, you have created your database and connected to it. Next, we will add a table.
 
@@ -106,9 +106,9 @@ That's it! Congratulations, you have created your database and connected to it. 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Insert new data**
-- **Update existence data**
-- **Delete existence data**
+- Insert new data
+- Update existence data
+- Delete existence data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
