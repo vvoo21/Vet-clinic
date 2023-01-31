@@ -95,6 +95,9 @@ That's it! Congratulations, you have created your database and connected to it. 
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Database Schema Diagram
+
+![](./img/schema.png)
 
 ## 👥 Author <a name="authors"></a>
 
@@ -103,6 +106,13 @@ That's it! Congratulations, you have created your database and connected to it. 
 - GitHub: [@vvoo21](https://github.com/vvoo21)
 - Twitter: [@vaneoliverosp](https://twitter.com/vaneoliverosp)
 - LinkedIn: [vaneoliverosp](https://www.linkedin.com/in/vaneoliverosp/)
+
+👤 **Amen Tetteh**
+
+- GitHub: [@amentetteh](https://github.com/amentetteh)
+- Twitter: [@amentetteh](https://twitter.com/amentetteh)
+- LinkedIn: [amentetteh](https://www.linkedin.com/in/amentetteh/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
