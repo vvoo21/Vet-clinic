@@ -95,6 +95,7 @@ That's it! Congratulations, you have created your database and connected to it. 
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Database Schema Diagram
 
 ![](./img/schema.png)
