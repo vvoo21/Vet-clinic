@@ -98,7 +98,7 @@ That's it! Congratulations, you have created your database and connected to it. 
 
 ## Database Schema Diagram
 
-![](./img/schema.png)
+![Schema Diagram](./img/schema.png)
 
 ## 👥 Author <a name="authors"></a>
 
